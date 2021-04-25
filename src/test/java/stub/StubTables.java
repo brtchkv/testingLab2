@@ -10,10 +10,7 @@ public interface StubTables {
             -Math.PI / 5,
             -Math.PI/3,
             -Math.PI/6,
-            -0.69 * Math.PI,
-            -0.69*Math.PI - Math.PI,
             -Math.PI/2,
-            -0.19 * Math.PI,
             -Math.PI,
             0.0
             );
